@@ -4,7 +4,7 @@
 <img src="pic/shihao.jpg" width="120" height="160" align="left">
 <div class="navigation">
   <center>
-  <h1> Hao Shi (史昊) </h1>
+  <font size="6" color="#000000"> <b> Hao Shi (史昊) </b> </font> 
   <p> Tianjin Key Laboratory of Cognitive Computing and Application, Tianjin University </p>
   <p> hshi.cca@gmail.com </p>
   <p> <a href="https://www.linkedin.com/in/hao-shi-29300b1b2/">Linkedin</a> | My CV is <a href="pdf/My_CV.pdf">here</a></p>
