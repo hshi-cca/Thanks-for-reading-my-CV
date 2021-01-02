@@ -1,5 +1,6 @@
-
 <html lang="en">
+
+<head></head>
 
 <body>
 <img src="pic/shihao.jpg" width="120" height="160" align="left">
