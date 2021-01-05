@@ -11,6 +11,8 @@
   </center>
 </div>
   
+---
+
 <div class="content"> 
 <h2> <font color="#cc0099"> About Me </font></h2>
 <h4> <font size="3">Education Background </font>  </h4>
