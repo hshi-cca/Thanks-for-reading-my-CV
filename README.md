@@ -3,12 +3,12 @@
 <body>
 <img src="pic/shihao.jpg" width="120" height="160" align="left">
 <div class="navigation">
-  <center>
+
   <font size="6" color="#000000"> <b> Hao Shi (史昊) </b> </font> 
 
   <p> <font size="4"> Tianjin Key Laboratory of Cognitive Computing and Application, Tianjin University  </font> </p>
   <p> <font size="4"> hshi.cca@gmail.com | <a href="https://www.linkedin.com/in/hao-shi-29300b1b2/">Linkedin</a> | My CV is <a href="pdf/My_CV.pdf">here</a>  </font> </p>
-  </center>
+
 </div>
   
 <HR>
