@@ -11,7 +11,7 @@
   </center>
 </div>
   
----
+<HR>
 
 <div class="content"> 
 <h2> <font color="#cc0099"> About Me </font></h2>
