@@ -15,8 +15,8 @@
 <h2> <font color="#cc0099"> About Me </font></h2>
 <h4> <font size="3">Education Background </font>  </h4>
 <ul>
-<li>  <font size="3"> 2018.9 - Present, M.Phil., College of Intelligence and Computing, Tianjin University, Tianjin, China  </font> </li>
-<li> <font size="3"> 2014.9 - 2018.6, B.Sc., The School of Information Science and Technology, Southwest Jiaotong University, Chengdu, Sichuan, China </font>  </li>
+<li> <font size="3"> 2018.09 - 2021.01, M.Phil., College of Intelligence and Computing, Tianjin University, Tianjin, China  </font> </li>
+<li> <font size="3"> 2014.09 - 2018.06, B.Sc., The School of Information Science and Technology, Southwest Jiaotong University, Chengdu, Sichuan, China </font>  </li>
 </ul>
 <h4> <font size="3">Research Topics</font>  </h4>
 <ul>
