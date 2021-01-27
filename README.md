@@ -3,6 +3,7 @@
 <body>
 <!-- <img src="pic/shihao.jpg" width="120" height="160" align="left" border-style="solid" border-width="2pt" border-color="black"> -->
 <div class="navigation">
+  div {line-height:20px;}
   <font size="6" color="#000000"> <b> Hao Shi (史昊) </b> </font> 
   <li> <font size="4"> Address: At Home </font> </li>
   <li> <font size="4"> E-mail: hshi.cca@gmail.com </font> </li>
