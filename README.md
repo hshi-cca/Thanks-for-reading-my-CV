@@ -32,7 +32,7 @@
 <li> <font size="4"> Speech Dereverberation </font> </li>
 <li> <font size="4"> Deep Learning </font> </li>
 </ul>
-<li> <font size="4">Hobbies</font> </li>>
+<font size="4"> Hobbies </font>
 <ul>
 <li> <font size="4"> Piano </font> </li>
 <li> <font size="4"> Basketball </font> </li>
