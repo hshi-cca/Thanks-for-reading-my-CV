@@ -3,7 +3,7 @@
 <body>
 <!-- <img src="pic/shihao.jpg" width="120" height="160" align="left" border-style="solid" border-width="2pt" border-color="black"> -->
 <div class="navigation">
-  div {line-height:20px;}
+  <p></p>
   <font size="6" color="#000000"> <b> Hao Shi (史昊) </b> </font> 
   <li> <font size="4"> Address: At Home </font> </li>
   <li> <font size="4"> E-mail: hshi.cca@gmail.com </font> </li>
@@ -12,8 +12,6 @@
     <a href="https://scholar.google.com/citations?user=DclFbLwAAAAJ&hl=zh-CN">Google Scholar</a> | 
     <a href="https://www.researchgate.net/profile/Hao_Shi43">Research Gate</a> | 
     <a href="https://orcid.org/0000-0003-3373-2147">ORCID</a> </font> </li>
-
-
 </div>
   
 <HR>
