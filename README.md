@@ -23,9 +23,9 @@
 <h2> About Me </h2>
 <font size="4">Education Background </font>
 <ul>
-<li> <font size="4"> 2021.04 - Present, Ph.D., Department of Intelligence Science and Technology, Graduate School of Informatics, Kyoto University, Kyoto, Japan. (Supervisor: Prof. Tatsuya Kawahara) </font> </li>
-<li> <font size="4"> 2018.09 - 2021.01, M.Phil., College of Intelligence and Computing, Tianjin University, Tianjin, China. (Supervisor: Prof. Longbiao Wang) </font> </li>
-<li> <font size="4"> 2014.09 - 2018.06, B.Sc., The School of Information Science and Technology, Southwest Jiaotong University, Chengdu, Sichuan, China. </font> </li>
+<li> <font size="4"> 2021.04 - Present, Ph.D., Department of Intelligence Science and Technology, Graduate School of Informatics, Kyoto University, Kyoto, Japan (Supervisor: Prof. Tatsuya Kawahara) </font> </li>
+<li> <font size="4"> 2018.09 - 2021.01, M.Phil., College of Intelligence and Computing, Tianjin University, Tianjin, China (Supervisor: Prof. Longbiao Wang) </font> </li>
+<li> <font size="4"> 2014.09 - 2018.06, B.Sc., The School of Information Science and Technology, Southwest Jiaotong University, Chengdu, Sichuan, China </font> </li>
 </ul>
 <font size="4">Research Topics</font>
 <ul>
